@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in Computer Science at the [HKUST NLP Group](https://github.com/academicpages/academicpages.github.io), Hong Kong University of Science and Technology, advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
+I am a first-year Ph.D. candidate in Computer Science at the HKUST NLP Group, Hong Kong University of Science and Technology, advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
 
 Before starting my Ph.D., I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. Professor Junxian He previously advised me during my undergraduate studies at SJTU.
 
